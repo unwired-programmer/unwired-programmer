@@ -1,0 +1,4 @@
+- 👋 Hi, I’m unwired programmer
+- 💻 I’m interested in open-source software
+- 🌱 I want to IMPROVE python skills
+- 🥰 I’m looking to collaborate on open-source python projects
